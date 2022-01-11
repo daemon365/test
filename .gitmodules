@@ -1,0 +1,3 @@
+[submodule "sub/sub"]
+	path = sub/sub
+	url = https://github.com/haiyux/test.git
